@@ -1,4 +1,5 @@
 # cli-tree
+camp/notes/tree.txt
 juman@DESKTOP-QDGHL8O MINGW64 /c/Users
 $ cd
 
