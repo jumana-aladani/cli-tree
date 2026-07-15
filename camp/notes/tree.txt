@@ -1,1 +1,12 @@
+$ ls -R ~/camp
+/c/Users/juman/camp:
+README.md  notes/  projects/
 
+/c/Users/juman/camp/notes:
+day1.md  hello.txt  inspiration.md
+
+/c/Users/juman/camp/projects:
+week1/
+
+/c/Users/juman/camp/projects/week1:
+hello.txt
